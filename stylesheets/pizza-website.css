@@ -1,0 +1,67 @@
+body{
+    font-size: x-large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    background-color: #01dddd;
+}
+header {
+font-size: xxx-large;
+text-align: center;
+}
+.size {
+    border: 1px solid black;
+    border-radius: 1.5%;
+    margin: 10%;
+    margin-top: 5%;
+    margin-bottom: 0.8%;
+    padding: 1%;
+    padding-left: 0.8%;
+}
+.toppings, .veggie, .cheeses, .payments, .address{
+    margin: 10%;
+    margin-top: 0.8%;
+    margin-bottom: 0.8%;
+}
+.address {
+    padding: 1%;
+    padding-left: 18%;
+}
+.textbox1 {
+    width: 70%;
+    border-radius: 16px;
+    padding: 1%;
+}
+.city {
+    width: 70%;
+    padding: 1%;
+    border-radius: 16px;
+    background-color: #ffffff;
+}
+.textbox1 {
+    border-radius: 16px;
+}
+fieldset {
+    border: 1px solid black;
+    border-radius: 1.5%;
+    padding: 1%;
+    padding-left: 0.8%;
+}
+.size p {
+    float: left;
+}
+.size img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+#OrderSummary {
+    width: 50vw;
+    margin-left: 25vw;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: green;
+    border-style: solid;
+    border-width: thick;
+    background-color: #ffffff;
+}
